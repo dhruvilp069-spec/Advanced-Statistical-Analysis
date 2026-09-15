@@ -1,0 +1,7 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+Finance,HR,-0.8333,0.9901,-8.1454,6.4788,False
+Finance,IT,2.1667,0.8581,-5.1454,9.4788,False
+Finance,Sales,-2.6667,0.765,-9.9788,4.6454,False
+HR,IT,3.0,0.6941,-4.3121,10.3121,False
+HR,Sales,-1.8333,0.908,-9.1454,5.4788,False
+IT,Sales,-4.8333,0.3037,-12.1454,2.4788,False
